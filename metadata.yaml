@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9596'
     url: http://www.gutenberg.org/2009/agents/9596
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20032#Northern-Nut-Growers-Report-of-the-Proceedings-at-the-Twenty-First-Annual-MeetingCedar-Rapids_
 gutenberg_bookshelf: Northern Nut Growers Association
 gutenberg_issued: '2006-12-05'
 gutenberg_type: Text
